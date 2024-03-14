@@ -1,2 +1,3 @@
 # HelloGit
- Repositorio feito no curso do Guannabara
+ Repositório feito no curso do Guannabara.
+ Feito para testes
